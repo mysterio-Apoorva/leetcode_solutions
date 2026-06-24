@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
 |  |
 | ------- |
