@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
