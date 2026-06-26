@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
