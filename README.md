@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1768-merge-strings-alternately](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
