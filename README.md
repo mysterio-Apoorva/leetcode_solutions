@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0754-reach-a-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0754-reach-a-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0754-reach-a-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
