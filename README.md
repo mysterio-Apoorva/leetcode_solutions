@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0754-reach-a-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0754-reach-a-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
