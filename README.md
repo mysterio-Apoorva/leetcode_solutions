@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
