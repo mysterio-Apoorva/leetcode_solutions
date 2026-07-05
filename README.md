@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
