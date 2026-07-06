@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0338-counting-bits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
