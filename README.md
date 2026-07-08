@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0344-reverse-string) |
