@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
