@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0754-reach-a-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2651-calculate-delayed-arrival-time](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1678-goal-parser-interpretation](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2490-circular-sentence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2490-circular-sentence) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Enumeration
 |  |
