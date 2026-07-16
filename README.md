@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
