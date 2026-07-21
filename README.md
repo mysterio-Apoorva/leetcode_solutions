@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2651-calculate-delayed-arrival-time) |
