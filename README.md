@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0598-range-addition-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0754-reach-a-number) |
 | [1492-the-kth-factor-of-n](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
