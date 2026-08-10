@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
