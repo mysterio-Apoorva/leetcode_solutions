@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2490-circular-sentence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2490-circular-sentence) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2427-number-of-common-factors) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
