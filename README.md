@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0551-student-attendance-record-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0796-rotate-string) |
