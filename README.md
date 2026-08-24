@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
