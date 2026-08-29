@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -384,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
