@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -353,10 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
@@ -390,9 +393,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
