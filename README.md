@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
