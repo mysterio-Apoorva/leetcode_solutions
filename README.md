@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2490-circular-sentence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
