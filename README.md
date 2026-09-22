@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0067-add-binary) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0242-valid-anagram) |
