@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-min-max-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2293-min-max-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
