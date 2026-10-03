@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
