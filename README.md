@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
