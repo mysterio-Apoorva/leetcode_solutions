@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
