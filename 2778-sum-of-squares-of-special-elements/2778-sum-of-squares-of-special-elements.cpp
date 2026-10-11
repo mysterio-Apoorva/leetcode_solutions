@@ -7,8 +7,7 @@ public:
         {
             if(n%(i+1)==0)
             {
-                int d=pow(nums[i],2);
-                sum+=d;
+                sum=sum+ nums[i]*nums[i];
             }
         }
         return sum;
