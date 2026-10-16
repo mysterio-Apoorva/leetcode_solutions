@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0492-construct-the-rectangle) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2427-number-of-common-factors) |
@@ -527,4 +531,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
