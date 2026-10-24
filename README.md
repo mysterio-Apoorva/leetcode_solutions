@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
