@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-min-max-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2293-min-max-game) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
