@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
