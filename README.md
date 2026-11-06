@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
