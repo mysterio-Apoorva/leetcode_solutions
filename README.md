@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
