@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0561-array-partition) |
