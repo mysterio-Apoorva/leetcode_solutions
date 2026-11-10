@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
