@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
