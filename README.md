@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1260-shift-2d-grid) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mysterio-Apoorva/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
